@@ -1,0 +1,9 @@
+POST http://localhost:3001/dashboard/
+Content-Type: application/json
+#there must be empty line here
+
+{
+    "name":"Steam",
+    "description":"Clean washroom",
+    "price":25
+} 
